@@ -2,4 +2,4 @@
 
 **Introduction**
 
-With the rapid advancement of generative AI and automation, machines are increasingly capable of executing our demands on the fly. With just a few words, systems can generate astonishing on demand, a fundamental question arises: "Why are we here?" Why should we invest time and effort in practicing and learning things that machines are destined to do better in the future?
+With the rapid advancement of generative AI and automation, machines are increasingly capable of fulfilling our demands on the fly. With just a few words, systems can generate astonishing content on demand. Yet a fundamental question arises: "Why are we here?" Why should we invest time and effort in practicing and learning things that machines are destined to do better in the future?
