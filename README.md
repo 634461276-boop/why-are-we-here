@@ -17,3 +17,6 @@ Through this process, the human role is fundamentally redefined: we are transiti
 **Conclusion**
 
 This brings us to an uncomfortable reality: the specific tools and prompt syntaxes we painstakingly study-even the current iteration of Midjourney-will likely become obsolete in a few years. Accepting this truth sets us free. We are not here to accumulate depreciating static knowledge. We learn, practice, and wrestle with these tools to cultivate systems thinking, critical intuition, and the pure experience of asserting the human soul within the delicate balance between failure and success.
+
+## References
+Beattie, D. (n.d.). The art of code [Conference presentation / Lecture].
